@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "asset_types": [
+    "mcp_server",
+    "mcp_client"
+  ],
+  "sync_enabled": true,
+  "last_sync": "2026-02-07T08:12:38.150Z"
+}
